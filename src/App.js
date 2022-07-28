@@ -1,4 +1,5 @@
 import React from 'react'
+import './App.css'
 import Products from './components/Products';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
